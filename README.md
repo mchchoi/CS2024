@@ -5,7 +5,7 @@ Team members: Chek Hin Choi (cc2373), Weilong Guo (wg97)
 
 Introduction
 ------------
-The aim of this project is to explore the famous wine dataset <sup>[2]</sup> using k-means clustering and Naive Bayes classification in mlpack. In particular, we will compare 4 algorithms described in the [Results](#Results) section below. The data set contains result of chemical analysis of three types of wines grown in a certain plantation in Italy. The goal is to identify the three types of wine via clustering method, and evaluate the model by its prediction performance.
+The aim of this project is to explore the famous wine dataset <sup>[2]</sup> using k-means clustering and Naive Bayes classification in mlpack. In particular, we will compare 4 algorithms described in the [Results](#results) section below. The data set contains result of chemical analysis of three types of wines grown in a certain plantation in Italy. The goal is to identify the three types of wine via clustering method, and evaluate the model by its prediction performance.
 We learnt about the C++ packages mlpack <sup>[1]</sup> and Armadillo <sup>[3]</sup>.
 
 Description of algorithms
@@ -22,7 +22,7 @@ Description of files
 * [assignments_withguess](assignments_withguess) -- Clustering result from k-means clustering with warm start
 * [assignments_nbc](assignments_nbc) -- Clustering result from Naive Bayes classification
 
-[Results](#Results)
+## Results
 -------
 To compile our code, we can execute
 ```
